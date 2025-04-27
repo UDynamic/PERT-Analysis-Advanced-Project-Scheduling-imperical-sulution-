@@ -1,0 +1,2 @@
+# PERT-Analysis-Advanced-Project-Scheduling-imperical-sulution-
+This repository showcases a deep fusion of advanced LaTeX craftsmanship and professional-level project management expertise. From intricate PERT scheduling to critical path analysis, every table, chart, and diagram here is built with surgical accuracy — because project management isn’t about guessing, and documentation isn’t about clutter.
